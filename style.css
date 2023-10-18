@@ -1,0 +1,12 @@
+h1{
+ text-align: center;
+    color: maroon;
+}
+h2{
+    text-align: center;
+    color: lawngreen;
+}
+p{
+    background-color: lightpink;
+    box-shadow: 10px 10px 10px;
+}
